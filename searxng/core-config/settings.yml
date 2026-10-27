@@ -4,7 +4,7 @@
 use_default_settings: true
 
 server:
-  secret_key: "BkXe3OC6WC5KVvUPd9ijwpYR5HHL03tL"
+  secret_key: "[REDACTED FOR PRIVACY]"
   image_proxy: true
 
 search:
